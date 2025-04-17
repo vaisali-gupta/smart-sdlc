@@ -4,7 +4,6 @@ AI-enhanced software development lifecycle automation platform.
 ## 🚀 Features
 - AI-powered requirement understanding
 - Automated code, test, and doc generation
-- GitHub auto-commit
 - Optional LangChain agents
 
 ## 🧪 Quick Start
